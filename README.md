@@ -1,4 +1,4 @@
 # intern-project
 This my first repository
 <br>
-Author --Neha Shah
+Author --Neha Shah (apna college)
